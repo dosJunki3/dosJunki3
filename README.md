@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @dosJunki3
+- 👋 Hi
 - 👀 This is a repository for MoorNetworks code used to push business initiatives forward!
 - 🌱 Here are general Best Practices ...
